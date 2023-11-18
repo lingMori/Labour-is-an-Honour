@@ -1,0 +1,5 @@
+[2023-11-18 12:32:40,691][ERROR]<airtest.core.android.cap_methods.screen_proxy> b''
+[2023-11-18 12:32:40,691][ERROR]<airtest.core.android.cap_methods.screen_proxy> b'CANNOT LINK EXECUTABLE "/data/local/tmp/minicap": "/data/local/tmp/minicap.so" is 32-bit instead of 64-bit\r\n'
+[2023-11-18 12:32:40,692][ERROR]<airtest.core.android.cap_methods.screen_proxy> Minicap setup up failed!
+[2023-11-18 12:32:48,487][ERROR]<airtest.core.android.cap_methods.screen_proxy> OSError('socket connection broken',)
+[2023-11-18 12:32:48,488][ERROR]<airtest.core.android.cap_methods.screen_proxy> Javacap setup up failed!
