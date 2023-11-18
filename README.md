@@ -44,9 +44,10 @@ Once you have Labour is an Honour up and running, you can start uploading and ma
 
 
 ### Auto running
-1. Click on an image to open it.
-2. Use the provided sharing options to share your image with others.
-3. some funcs are still been developing, so just wait for a bit
+1. Click the `AirtestIDE.exe` in the `Labour-is-an-Honour/utils/AirtestIDE`
+2. Connect the Andorid simulator in the device dashboard `we use mumu offically`
+3. Finally, just open the `named file` in IDE and start running is all you need !
+> <font color="red">**Note:** </font> Ensure that you have download the <font color="white"> mumu simulator</font> and started the《Reverse:1999》before you start the script. Or you will <font color="#53f5cf">enjoy a extremely bug error duing the function running 😂</font>
 
 ## Customization
 You can easily customize Labour is an Honour to match your style and branding by modifying the CSS files and HTML templates provided in the project.
@@ -61,4 +62,4 @@ If you encounter any issues or have questions, feel free to create an issue on t
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-Enjoy using animate_image_bed! 📸✨
+Enjoy using Labour is an Honour! 📸✨
