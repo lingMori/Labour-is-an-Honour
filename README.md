@@ -14,7 +14,7 @@
 
 
 ## Introduction
-Labour is an Honour is a specialized automation script designed for the "Revisit the Future: 1999" game. This application streamlines and enhances your gaming experience by providing automated functionalities tailored to the unique aspects of the game.
+Labour is an Honour is a specialized automation script designed for the "Reverse:1999" game. This application streamlines and enhances your gaming experience by providing automated functionalities tailored to the unique aspects of the game.
 
 
 ## Features
