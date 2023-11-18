@@ -1,8 +1,8 @@
 
-<p align="center">
+<p align="center" style="margin-bottom: 0.12px">
   <img src="./resources/Labour_is_an_Honour_2.png" width="150">
-  <h1 align="center">Labour is an Honour</h1>
 </p>
+<h1 align="center">Labour is an Honour</h1>
 <p align="center">
   <a href="https://github.com/lingMori/Animate-Image-Bed/blob/main/LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
   <a href="https://github.com/lingMori/Animate-Image-Bed/tree/main"><img alt="Latest Release" src="https://img.shields.io/badge/python-3.9.6-green" /></a>
