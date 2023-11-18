@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./resources/Labour_is_an_Honour.png" width="150">
+  <img src="./resources/Labour_is_an_Honour_2.png" width="150">
   <h1 align="center">Labour is an Honour</h1>
 </p>
 <p align="center">
@@ -30,13 +30,13 @@ To get started with Labour is an Honour, follow these simple steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/animate_image_bed.git
+   git clone https://github.com/lingMori/Labour-is-an-Honour.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd animate_image_bed
+   cd Labour-is-an-Honour
    ```
 
 ## Usage
